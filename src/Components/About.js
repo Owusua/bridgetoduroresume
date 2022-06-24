@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from '../files/bridgetodurocv.pdf'
+import pdf from "../files/BridgetOResume.pdf";
 
 const About = ({ data }) => {
   if (data) {
@@ -47,9 +47,9 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-               <a href={pdf} target="_blank" className="button">
+                <a href={pdf} target="_blank" className="button">
                   <i className="fa fa-download"></i>Download Resume
-               </a>
+                </a>
               </p>
             </div>
           </div>

@@ -3,7 +3,7 @@
     "name": "Bridget Oduro",
     "occupation": "Frontend Guru",
     "description": "I love JavaScript",
-    "image": "profilepic.png",
+    "image": "profilepic.jpg",
     "bio": "Hello, I am Bridget a Frontend Developer who is passionate about Web Development and Artificial Intelligence. I have over two years experience in frontend development which has developed my skills in both web and mobile applications. I love reading on technogies on artificial intelligence such image recognition and data analysis. You can also check out my blog on technology(Talktech Culture) on Facebook",
     "contactmessage": "Get in touch with me on anything relating to technology",
     "email": "lilowusuaoduro@gmail.com",
@@ -44,7 +44,7 @@
       {
         "school": "University of Siena",
         "degree": "Masters's Degree, MSc Computer and Automation Engineering",
-        "graduated": "-"
+        "graduated": "April 2022"
       },
       {
         "school": "Kwame Nkrumah University of Science and Technology",
@@ -53,6 +53,12 @@
       }
     ],
     "work": [
+    {
+        "company": "IES Italia SRL",
+        "title": "Frontend Developer",
+        "years": "April 2021 - September 2021",
+        "description": "Designed and Developed the frontend part of the in house Content Management System using HTML, CSS, Bootstrap, Jquery, Metronics Framework."
+      },
       {
         "company": "6Wolves",
         "title": "Frontend Developer Intern",
@@ -97,6 +103,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Hulu Clone (JavaScript)",
+        "category": "",
+        "image": "hu.png",
+        "url": "https://hulu-2-yt-nine.vercel.app/"
+      },
       {
         "title": "Covid-19 Tracker (JavaScript)",
         "category": "",
